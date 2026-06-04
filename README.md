@@ -1,5 +1,7 @@
 ﻿<div align="center">
 
+<img src="docs/07-github-readme-1280x420.png" alt="CodeDroid - a mobile code editor that actually runs your code" width="100%">
+
 # `</>` CodeDroid
 
 ### A mobile code editor for Android — write & run code on your phone.
@@ -29,6 +31,12 @@ hit **Run** — Python and JavaScript execute **on-device**, no server, no cloud
 - 🌐 **Live HTML/CSS preview**
 - ☕ **Warm dark theme** — premium brass palette, easy on the eyes
 - ⌨️ **Coding keyboard toolbar** — quick symbols above the keyboard
+
+## Showcase
+
+<div align="center">
+<img src="docs/05-multidevice-1920x1080.png" alt="CodeDroid screens" width="100%">
+</div>
 
 ## Install
 
